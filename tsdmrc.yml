@@ -3,4 +3,4 @@ windows:
   files:
      - hi.txt:
         name: "hi.txt"
-        location: foo/bar
+        location: ~/.config/hi.txt
