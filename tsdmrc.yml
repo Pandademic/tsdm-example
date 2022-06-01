@@ -1,4 +1,4 @@
-reqVer: 0.1
+reqVer: 0.2 
 windows:
   files:
      - hi.txt:
