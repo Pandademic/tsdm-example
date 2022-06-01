@@ -3,4 +3,7 @@ windows:
   files:
      - hi.txt:
         name: "hi.txt"
-        location: ~/.config/hi.txt
+        location: ~/tsdm/hi.txt
+     - testdir/ho.txt:
+        name: "ho.txt"
+        location: ~/tsdm/ho.txt
